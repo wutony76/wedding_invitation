@@ -625,6 +625,7 @@ p {
   }
 }
 #fh5co-featured .fh5co-grid .arrow-right:before, #fh5co-featured .fh5co-grid .arrow-right::before {
+  display: none;
   content: "";
   position: absolute;
   z-index: 999;
